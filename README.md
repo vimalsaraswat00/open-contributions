@@ -1,1 +1,2 @@
-# open-contributions
+# open-contributions 
+Anyone can contribute here.
